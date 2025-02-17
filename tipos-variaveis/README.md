@@ -16,3 +16,11 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+--
+
+Atualização em 17/02/2025:
+
+Criado uma package para desenvolver as aulas e práticas exclusiva do curso da DIO para TipoVariaveis. Arquivo movido para a package.
+
+Incluído uma package para desenvolver exercícios diversos de diferentes lugares para a prática dos tipos de variáveis.
