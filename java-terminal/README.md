@@ -16,3 +16,18 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+Foi testado a execução da classe MinhaClass pelo terminal do MS-DOS através da página bin.
+
+1 Encontrar a pasta C:\Users\Thaigo Eros\Estudo\dio-trilha-java-basico\java-terminal
+
+2 cd C:\Users\Thaigo Eros\Estudo\dio-trilha-java-basico\java-terminal
+
+3 entrar na pasta BIN
+
+4 cd bin
+
+5 Executar o arquivo MinhaClass.java
+
+6 java MinhaClass
