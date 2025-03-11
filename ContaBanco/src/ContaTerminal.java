@@ -25,7 +25,7 @@ public class ContaTerminal {
                 
         //Obter pela scanner os valores digitados pelo usuário;
         
-        System.out.printf("Olá " + nomeCliente +", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque");
+        System.out.printf("Olá " + nomeCliente +", obrigado por criar uma conta em nosso banco, sua agência é " + agencia + ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque! \n");
 
         //Exibir a mensagem de conta criada com sucesso;
 
